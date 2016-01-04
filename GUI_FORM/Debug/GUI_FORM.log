@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  MyForm.obj : /DEBUG:FASTLINK non è supportato in presenza di codice gestito. Il collegamento verrà riavviato con /DEBUG:FULL
+  GUI_FORM.vcxproj -> C:\Users\Anthony\Downloads\Documents\Visual Studio 2015\Projects\GUI_FORM\Debug\GUI_FORM.exe
+  GUI_FORM.vcxproj -> C:\Users\Anthony\Downloads\Documents\Visual Studio 2015\Projects\GUI_FORM\Debug\GUI_FORM.pdb (Partial PDB)
